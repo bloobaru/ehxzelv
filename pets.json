@@ -1,0 +1,17 @@
+{
+  "DOG": [
+    {
+      "name": "Leroy",
+      "owner": "Leah",
+      "color": "brown"
+    }
+  ],
+  
+  "CAT": [
+    {
+      "name": "Bobby",
+      "owner": "James",
+      "color": "black"
+    }
+  ]
+}
