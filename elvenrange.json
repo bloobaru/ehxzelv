@@ -1,0 +1,37 @@
+{
+  "ATHENA": [
+    {
+      "name": "Athena",
+      "species": "dog",
+      "breed": "husky",
+      "color": "black"
+    }
+  ],
+  
+  "MIYA": [
+    {
+      "name": "Athena",
+      "species": "cat",
+      "breed": "maine coon",
+      "color": "grey"
+    }
+  ],
+  
+  "MARLY": [
+    {
+      "name": "Marly",
+      "species": "cat",
+      "breed": "siamese",
+      "color": "black & white"
+    }
+  ],
+  
+  "ELLIOT": [
+    {
+      "name": "Elliot",
+      "species": "dog",
+      "breed": "shitzu",
+      "color": "brown"
+    }
+  ]
+}
